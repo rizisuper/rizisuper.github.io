@@ -7,7 +7,7 @@ My name is Rizwan Ali, and I'm almost years old. Compare to other kids, I haven'
 University Level Student...let me just explain it myself
 
 
-##My Projects 
+## My Projects 
 
 ### rizisuper 
 ### Pro and Tech
