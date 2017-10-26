@@ -11,7 +11,7 @@ University Level Student...let me just explain it myself
 
 ### rizisuper 
 ### Pro and Tech
-### Idea Generator
+### Zarox
 
 Links to My Projects 
 [rizisuper](https://youtube.com/rizisuper) and
