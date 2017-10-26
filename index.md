@@ -4,7 +4,7 @@ My name is Rizwan Ali, and I'm almost years old. Compare to other kids, I haven'
 
 ### Student Life
 
-My life is always on the Move, I completed my startup classes in Hyderabad. Then I left for London, then I came back and now I'm in DHA Suffa University. 
+University Level Student...let me just explain it myself
 
 
 My Projects 
