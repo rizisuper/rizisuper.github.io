@@ -4,32 +4,29 @@ My name is Rizwan Ali, and I'm almost years old. Compare to other kids, I haven'
 
 ### Student Life
 
-My life is always on the Move, I completed my startup classes in Hyderabad. Then I left for London, then I came back and now I'm in DHA Suffa University 
+My life is always on the Move, I completed my startup classes in Hyderabad. Then I left for London, then I came back and now I'm in DHA Suffa University. 
 
 ```markdown
-Syntax highlighted code block
+My Projects 
 
-# Header 1
-## Header 2
-### Header 3
+# rizisuper 
+## Pro and Tech
+### Idea Generator
 
-- Bulleted
-- List
+Links to My Projects 
+[rizisuper](https://youtube.com/rizisuper)
+[Pro and Tech](http://proandtech.com)
 
-1. Numbered
-2. List
+My University Projects
 
-**Bold** and _Italic_ and `Code` text
+# Mario Returns to DHA Suffa (OOP) 
+## Future Rating Predictor (AI)
+### Banking System (Assembly Language)
+#### Driver Behaviour (OpenCV, Python)
+#### Student Database Management System (DB)
+##### C++ Compiler (Compiler) 
 
-[Link](url) and ![Image](src)
-```
+### Thanks!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rizisuper/rizisuper.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This has been for the Seminar Course! 
+You can contact me at "ceo@rizisuper.com" for any quries. 
