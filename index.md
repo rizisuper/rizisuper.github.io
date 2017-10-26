@@ -6,12 +6,12 @@ My name is Rizwan Ali, and I'm almost years old. Compare to other kids, I haven'
 
 My life is always on the Move, I completed my startup classes in Hyderabad. Then I left for London, then I came back and now I'm in DHA Suffa University. 
 
-```markdown
+
 My Projects 
 
-# rizisuper 
+## rizisuper 
 ## Pro and Tech
-### Idea Generator
+## Idea Generator
 
 Links to My Projects 
 [rizisuper](https://youtube.com/rizisuper)
@@ -19,12 +19,12 @@ Links to My Projects
 
 My University Projects
 
-# Mario Returns to DHA Suffa (OOP) 
+## Mario Returns to DHA Suffa (OOP) 
 ## Future Rating Predictor (AI)
-### Banking System (Assembly Language)
-#### Driver Behaviour (OpenCV, Python)
-#### Student Database Management System (DB)
-##### C++ Compiler (Compiler) 
+## Banking System (Assembly Language)
+## Driver Behaviour (OpenCV, Python)
+## Student Database Management System (DB)
+## C++ Compiler (Compiler) 
 
 ### Thanks!
 
