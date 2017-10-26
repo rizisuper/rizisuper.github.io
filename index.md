@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## About Me 
 
-You can use the [editor on GitHub](https://github.com/rizisuper/rizisuper.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Rizwan Ali, and I'm almost years old. Compare to other kids, I haven't had that many hardships. Not really. Stuff's happened, sure. But stuff's always happens, right? You can't just quit, life isn't about quitting it's about evolving. But the real challange in my life, the real hardship is me. It's always been me. As long as I remember I've never not been afraid. Afraid of failure, afriad of letting people down, afraid of getting hurt or hurting people. It's actually fine to live in the now, but the best part about now is there's another one tomorrow. Working on the "now" is the best way to live the life how it's ment to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Student Life
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My life is always on the Move, I completed my startup classes in Hyderabad. Then I left for London, then I came back and now I'm in DHA Suffa University 
 
 ```markdown
 Syntax highlighted code block
