@@ -14,7 +14,7 @@ University Level Student...let me just explain it myself
 ### Idea Generator
 
 Links to My Projects 
-[rizisuper](https://youtube.com/rizisuper)
+[rizisuper](https://youtube.com/rizisuper) and
 [Pro and Tech](http://proandtech.com)
 
 ## My University Projects
