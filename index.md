@@ -28,7 +28,7 @@ Links to My Projects
 ### Student Database Management System (DB)
 ### C++ Compiler (Compiler) 
 
-### Thanks!
+## Thanks!
 
-This has been for the Seminar Course! 
+This has been it for the Seminar Course! 
 You can contact me at "ceo@rizisuper.com" for any quries. 
